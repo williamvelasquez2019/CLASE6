@@ -1,0 +1,9 @@
+c:\users\lab3\documents\visual studio 2013\Projects\proyectoonew\proyectoonew\bin\Debug\proyectoonew.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\proyectoonew\proyectoonew\obj\Debug\proyectoonew.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\proyectoonew\proyectoonew\obj\Debug\proyectoonew.MDIParent1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\proyectoonew\proyectoonew\obj\Debug\proyectoonew.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\proyectoonew\proyectoonew\obj\Debug\proyectoonew.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\proyectoonew\proyectoonew\bin\Debug\proyectoonew.exe
+c:\users\lab3\documents\visual studio 2013\Projects\proyectoonew\proyectoonew\bin\Debug\proyectoonew.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\proyectoonew\proyectoonew\obj\Debug\proyectoonew.exe
+c:\users\lab3\documents\visual studio 2013\Projects\proyectoonew\proyectoonew\obj\Debug\proyectoonew.pdb
